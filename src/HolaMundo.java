@@ -13,5 +13,18 @@ public class HolaMundo {
             numero2 = 10;
         }
         System.out.println("numero2 = " + numero2);
+
+        var numero3 = "15";
+
+        String nombre;
+
+        nombre = "Miguel";
+
+        if (numero > 10) {
+            nombre = "Angel";
+        }
+
+        /*System.out.println("nombre = " + nombre);*/
+        int edadPersona = 5;
     }
 }
